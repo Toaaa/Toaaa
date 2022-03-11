@@ -24,6 +24,14 @@
 [![Debian](https://img.shields.io/badge/-Debian-a81d33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org)
 [![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 
-## Stats
+## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=toaaa&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Toaaa/Toaaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Toaaa&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Toa's GitHub Stats" />
+</a>
+
+<!--
+<a href="https://github.com/Toaaa/Toaaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toaaa&langs_count=3&theme=material-palenight" alt="Toa's most used languages" />
+</a>
+-->
