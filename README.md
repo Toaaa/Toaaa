@@ -5,6 +5,7 @@
 
 
 [![Mail](https://img.shields.io/badge/-Send%20a%20mail-6666ff?style=flat-square&logo=gmail&logoColor=white)](mailto:cloud.galaxycrow@gmail.com)
+[![Discord Bot](https://img.shields.io/badge/-Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white)](https://bot.toaaa.de)
 [![Support me](https://img.shields.io/badge/-Support%20me-f7df1e?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toaaa)
 
 ## Languages
