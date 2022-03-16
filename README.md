@@ -15,7 +15,7 @@
 [![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![DiscordJS](https://img.shields.io/badge/-DiscordJS-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/#/)
 [![HTML & CSS](https://img.shields.io/badge/-HTML%20&%20CSS-e34f26?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3AToaaa+language%3AHTML&type=Repositories)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3AToaaa+language%3APHP&type=Repositories)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/search?q=user%3AToaaa+language%3APHP&type=Repositories)
 [![Java](https://img.shields.io/badge/-Java-4d4d4d?style=flat-square&logo=java&logoColor=red)](https://github.com/search?q=user%3AToaaa+language%3AJAVA&type=Repositories)
 
 ## Other skills
