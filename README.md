@@ -35,7 +35,7 @@
 
 <a  href="https://github.com/Toaaa/Toaaa">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Toaaa&count_private=true&show_icons=true&line_height=27&locale=en&theme=gotham"  alt="Toa's GitHub Stats"  />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Toaaa&show_icons=true&line_height=27&locale=en&theme=gotham"  alt="Toa's GitHub Stats"  />
 
 </a>
 
@@ -43,7 +43,7 @@
 
 <a href="https://github.com/Toaaa/Toaaa">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toaaa&hide=xml,txt,md&layout=compact&langs_count=3&show_icons=true&line_height=27&locale=en&theme=gotham" alt="Toa's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toaaa&count_private=true&hide=xml,txt,md&layout=compact&langs_count=3&show_icons=true&line_height=27&locale=en&theme=gotham" alt="Toa's GitHub Stats" />
 
 </a>
 
