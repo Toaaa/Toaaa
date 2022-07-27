@@ -1,5 +1,5 @@
 
-# Hello, i am [Toa](https://github.com/Toaaa)! 👋
+# Hello, i am [Toa](https://github.com/Toaaa)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 *Sometimes, I write things. I maintain websites (for companies or just for me), sometimes, I write scripts in JavaScript, and sometimes, I write scripts to automate things in Python on my Raspberry Pi.*
 
@@ -11,7 +11,7 @@
 
 <br>
 
-## Languages
+## 💻 〣 Languages
 
 <br>
 
@@ -21,19 +21,19 @@
 
 <br>
 
-## Tools
+## 🛠️ 〣 Tools
 
 ![](https://skillicons.dev/icons?i=linux,vscode,visualstudio,ps,pr,docker,github,git)
 
 <br>
 
-## 🤝 My best Friend
+## 🤝 〣 My best Friend
 
 ![](https://skillicons.dev/icons?i=stackoverflow)
 
 <br>
 
-## 📊 Stats
+## 📊 〣 Stats
 
 <br>
 
