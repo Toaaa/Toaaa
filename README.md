@@ -15,17 +15,21 @@
 
 <br>
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/search?q=user%3AToaaa+language%3APHP&type=Repositories) [![HTML & CSS](https://img.shields.io/badge/-HTML%20&%20CSS-e34f26?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3AToaaa+language%3AHTML&type=Repositories) [![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://github.com/search?q=user%3AToaaa+language%3AJavaScript&type=Repositories) [![Python](https://img.shields.io/badge/-Python-3366ff?style=flat-square&logo=python&logoColor=white)](https://github.com/search?q=user%3AToaaa+language%3APython&type=Repositories&l=Python&l=) [![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![DiscordJS](https://img.shields.io/badge/-DiscordJS-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/#/)
+![](https://skillicons.dev/icons?i=php,html,css,js,nodejs,sass,mysql)
 
 *Note: I'm currently learning Python*
 
 <br>
 
-## Other skills
+## Tools
+
+![](https://skillicons.dev/icons?i=linux,vscode,visualstudio,ps,pr,docker,github,git)
 
 <br>
 
-[![Git](https://img.shields.io/badge/-Git%20CLI-ffffff?style=flat-square&logo=git&logoColor=black)](https://git-scm.com/docs/gitcli) [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com) [![Debian](https://img.shields.io/badge/-Debian-a81d33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org) [![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+## 🤝 My best Friend
+
+![](https://skillicons.dev/icons?i=stackoverflow)
 
 <br>
 
@@ -35,7 +39,7 @@
 
 <a  href="https://github.com/Toaaa/Toaaa">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Toaaa&show_icons=true&line_height=27&locale=en&theme=gotham"  alt="Toa's GitHub Stats"  />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Toaaa&count_private=true&include_all_commits=true&show_icons=true&line_height=27&locale=en&theme=gotham"  alt="Toa's GitHub Stats"  />
 
 </a>
 
