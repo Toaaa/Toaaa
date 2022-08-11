@@ -39,9 +39,12 @@
 
 <a  href="https://github.com/Toaaa/Toaaa">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Toaaa&count_private=true&include_all_commits=true&show_icons=true&line_height=27&locale=en&theme=gotham"  alt="Toa's GitHub Stats"  />
+<!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Toaaa&count_private=true&include_all_commits=true&show_icons=true&line_height=27&locale=en&theme=gotham"  alt="Toa's GitHub Stats"  /> -->
 
 </a>
+<br>
+
+![Metrics](https://metrics.lecoq.io/Toaaa?template=classic&isocalendar=1&languages=1&gists=1&lines=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&pagespeed.url=info.toaaa.de&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Europe%2FBerlin)
 
 <!-- Most Used Languages
 
