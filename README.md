@@ -11,11 +11,6 @@
 <p align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/622463049261121567?&bg=00000000">
 </p>
-
-In love with [Proxmox](https://www.proxmox.com/).
-
-[![Mail](https://img.shields.io/badge/-Send%20me%20a%20mail-6666ff?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@toaaa.de) [![Discord Bot](https://img.shields.io/badge/-Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white)](https://bot.toaaa.de) [![Support me](https://img.shields.io/badge/-Support%20me-f7df1e?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toaaa)
-
 <br>
 
 ## 💻 〣 Languages
@@ -51,13 +46,22 @@ In love with [Proxmox](https://www.proxmox.com/).
 -->
 
 ![Metrics](https://metrics.lecoq.io/Toaaa?template=classic&base.indepth=true&repositories.forks=true&languages=1&calendar=1&base.indepth=true&base.hireable=false&languages.ignored=hack&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&calendar.limit=1&config.timezone=Europe%2FBerlin&config.display=columns)
+## 💬 〣 Contact
+[![Mail](https://img.shields.io/badge/-Send%20me%20a%20mail-6666ff?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@toaaa.de)
 
-<!-- Most Used Languages
+## ♥️〣 Buy me a Coffee
+If you like, you can buy me a coffee  [here](https://buymeacoffee.com/toaaa)
 
-<a href="https://github.com/Toaaa/Toaaa">
+#### Want to contribute with Crypto?
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toaaa&count_private=true&hide=xml,txt,md&layout=compact&langs_count=3&show_icons=true&line_height=27&locale=en&theme=gotham" alt="Toa's GitHub Stats" />
+![Bitcoin](https://img.shields.io/badge/-BTC-4c4c4c?style=flat-square&logo=bitcoin&logoColor=d3d3d3) 
+`bc1qzem2k2knd2aag8adezht785e8k5km4wp3r2gwa`
 
-</a>
+![Ethereum](https://img.shields.io/badge/-ETH-4c4c4c?style=flat-square&logo=ethereum&logoColor=ecf0f1) 
+`0xE41991f48E2ADA317CC629258B95115C28564B48`
 
-Most Use Languages -->
+![Monero](https://img.shields.io/badge/-XMR-4c4c4c?style=flat-square&logo=monero&logoColor=ff6600) 
+`85JDmXzCKMCDe7Gh8suLwihcxtiD95Hb3cNVUuEdg4uc26tXErFg4U71kLkkzrRVzjEXQeRHwYtiKBzKAK4VvXj1Nfdbudr`
+
+![Litecoin](https://img.shields.io/badge/-LTC-4c4c4c?style=flat-square&logo=litecoin&logoColor=d3d3d3) 
+`LgXF149kKUGAGRQvnjuM1BWuCk8D4DikZi`
