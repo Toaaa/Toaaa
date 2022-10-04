@@ -1,11 +1,18 @@
 
-# Hello, i am [Toa](https://github.com/Toaaa)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<h1 align="center">Hey, I'm Toa. <img src="https://cdn.toaaa.de/toaaa/github/wave.gif" width="30px" height="30px"></h1>
+<h3 align="center">Student and hobby-developer</h3>
 
-*Sometimes, I write things. I maintain websites (for companies or just for me), sometimes, I write scripts in JavaScript, and sometimes, I write scripts to automate things in Python on my Raspberry Pi.*
+<p align="center">
+    『 16y/o 』
+    『 she/her』
+    『 a pan 🍳 』
+</p>
 
-*I have learned most of the things I know on my own.*
+<p align="center">
+<img src="https://lanyard-profile-readme.vercel.app/api/622463049261121567?&bg=00000000">
+</p>
 
-*I host most of the services I use (and my own) on a [Proxmox VE Server](https://www.proxmox.com/).*
+In love with [Proxmox](https://www.proxmox.com/).
 
 [![Mail](https://img.shields.io/badge/-Send%20me%20a%20mail-6666ff?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@toaaa.de) [![Discord Bot](https://img.shields.io/badge/-Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white)](https://bot.toaaa.de) [![Support me](https://img.shields.io/badge/-Support%20me-f7df1e?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toaaa)
 
@@ -15,19 +22,19 @@
 
 <br>
 
-![](https://skillicons.dev/icons?i=php,html,css,js,nodejs,sass,mysql)
+![Languages](https://skillicons.dev/icons?i=php,html,css,js,nodejs,sass,mysql)
 
 <br>
 
 ## 🛠️ 〣 Tools
 
-![](https://skillicons.dev/icons?i=linux,vscode,visualstudio,ps,pr,docker,github,git)
+![Tools](https://skillicons.dev/icons?i=linux,vscode,visualstudio,ps,pr,docker,github,git)
 
 <br>
 
 ## 🤝 〣 My best Friend
 
-![](https://skillicons.dev/icons?i=stackoverflow)
+![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)
 
 <br>
 
