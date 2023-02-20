@@ -17,7 +17,7 @@
 
 <br>
 
-![Languages](https://skillicons.dev/icons?i=php,html,css,js,nodejs,sass,mysql)
+![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs,cs,mysql)
 
 <br>
 
