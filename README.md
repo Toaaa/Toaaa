@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey, I'm <a href="https://l.toaaa.de">Toa</a>. <img src="https://cdn.toaaa.de/toaaa/github/wave.gif" width="30px" height="30px"></h1>
 <h3 align="center">Student and hobby-developer</h3>
-<h4 align="center">I'm currently learning C# with Microsoft's WPF and Unity</h4>
 
 <p align="center">
     『 16y/o 』
@@ -15,6 +14,7 @@
 <br>
 
 ## 💻 〣 Languages
+<h5>* I'm currently learning C# with Microsoft's WPF and Unity</h5>
 
 <br>
 
