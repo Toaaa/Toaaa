@@ -24,7 +24,7 @@
 
 ## 🛠️ 〣 Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,vscode,visualstudio,ps,pr,docker,github,git)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,github,git,docker,linux)
 
 <br>
 
