@@ -18,7 +18,7 @@
 
 <br>
 
-![Languages](https://skillicons.dev/icons?i=svelte,js,nodejs,scss,astro,cs,go,mysql)
+![Languages](https://skillicons.dev/icons?i=svelte,js,nodejs,scss,astro,cs,go,mysql,postgresql)
 
 <br>
 
