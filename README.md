@@ -14,11 +14,11 @@
 <br>
 
 ## 💻 〣 Languages
-<h5>* I'm currently learning C# with Microsoft's WPF and Unity</h5>
+<h5>* I'm currently learning C# with Unity</h5>
 
 <br>
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs,cs,mysql)
+![Languages](https://skillicons.dev/icons?i=svelte,js,nodejs,scss,astro,cs,go,mysql)
 
 <br>
 
@@ -28,9 +28,9 @@
 
 <br>
 
-## 🤝 〣 My best Friend
+<!--## 🤝 〣 My best Friend
 
-![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)
+![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)-->
 
 <br>
 
