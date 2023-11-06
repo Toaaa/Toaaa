@@ -3,7 +3,6 @@
 <h3 align="center">Student and hobby-developer</h3>
 
 <p align="center">
-    『 16y/o 』
     『 she/her』
     『 a pan 🍳 』
 </p>
