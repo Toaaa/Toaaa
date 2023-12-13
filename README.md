@@ -13,11 +13,8 @@
 <br>
 
 ## 💻 〣 Languages
-<h5>* I'm currently learning C# with Unity</h5>
 
-<br />
-
-![Languages](https://skillicons.dev/icons?i=svelte,js,nodejs,scss,astro,cs,go,mysql,postgresql)
+![Languages](https://skillicons.dev/icons?i=svelte,js,ts,nodejs,php,astro,cs,go,mysql,postgresql)
 
 <br />
 
