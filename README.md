@@ -20,13 +20,13 @@
 
 ## 💻 〣 Languages
 
-![Languages](https://skillicons.dev/icons?i=svelte,js,ts,nodejs,php,astro,cs,go,mysql,postgresql)
+![Languages](https://skillicons.dev/icons?i=svelte,astro,ts,php,rust,go,cs)
 
 <br />
 
 ## 🛠️ 〣 Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,github,git,docker,linux)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,github,git,nodejs,mysql,postgresql,docker,linux)
 
 <br />
 
