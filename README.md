@@ -32,22 +32,3 @@
 
 ## 💬 〣 Contact
 [![Mail](https://img.shields.io/badge/-Send%20me%20a%20mail-6666ff?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@toaaa.de)
-
-<br />
-
-## ♥️〣 Buy me a Coffee
-If you like, you can buy me a coffee  [here](https://buymeacoffee.com/toaaa)
-
-#### Want to contribute with Crypto?
-
-![Bitcoin](https://img.shields.io/badge/-BTC-4c4c4c?style=flat-square&logo=bitcoin&logoColor=d3d3d3) 
-`bc1qzem2k2knd2aag8adezht785e8k5km4wp3r2gwa`
-
-![Ethereum](https://img.shields.io/badge/-ETH-4c4c4c?style=flat-square&logo=ethereum&logoColor=ecf0f1) 
-`0xE41991f48E2ADA317CC629258B95115C28564B48`
-
-![Monero](https://img.shields.io/badge/-XMR-4c4c4c?style=flat-square&logo=monero&logoColor=ff6600) 
-`86dWp5EXhZLiKWvCnAbRBNDPuT51txBmhAmX5Cxmui5RPoqUBzDrD13TEkNjjvq6KdEVJQkbvmM21QFVtySDUYwkPhhLG6G`
-
-![Litecoin](https://img.shields.io/badge/-LTC-4c4c4c?style=flat-square&logo=litecoin&logoColor=d3d3d3) 
-`LgXF149kKUGAGRQvnjuM1BWuCk8D4DikZi`
