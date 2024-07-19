@@ -5,7 +5,7 @@
 <h3 align="center">Student and hobby-developer</h3>
 
 <p align="center">『 she/her 』 『 a pan 🍳 』</p>
-
+<br />
 <div align="center">
   <img
     src="https://lanyard-profile-readme.vercel.app/api/622463049261121567?&bg=151515"
