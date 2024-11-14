@@ -42,3 +42,7 @@
 
 ## 💬 〣 Contact
 [![Mail](https://img.shields.io/badge/-Send%20me%20a%20mail-6666ff?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@toaaa.de)
+
+<div align="center">
+  <img src="https://count.getloli.com/@toaaa?name=toaaa&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+</div>
